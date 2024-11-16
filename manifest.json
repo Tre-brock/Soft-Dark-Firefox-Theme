@@ -1,0 +1,24 @@
+{
+  "name": "Soft dark theme",
+  "manifest_version": 2,
+  "version": "2.0",
+  "theme": {
+    "images": {
+      "theme_frame": "Screenshot_20241115_174050.png"
+    },
+    "colors": {
+      "frame": "rgba(49, 54, 59, 1)",
+      "tab_background_text": "rgba(255, 255, 255, 1)",
+      "toolbar": "rgba(74, 77, 81, 1)",
+      "bookmark_text": "rgba(255, 255, 255, 1)",
+      "toolbar_field": "rgba(52, 54, 57, 1)",
+      "toolbar_field_text": "rgba(255, 255, 255, 1)",
+      "tab_line": "rgba(74, 77, 81, 1)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{57b0149c-4209-4a0c-bf5b-905de877518b}"
+    }
+  }
+}
